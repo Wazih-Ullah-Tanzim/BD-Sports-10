@@ -36,10 +36,10 @@ Here are short preview clips from the BD Sports-10 dataset:
 The full dataset can be downloaded from:
 
 - **Resized Version (224×224 pixels):** [Mendeley Data](https://data.mendeley.com/datasets/rnh3x48nfb/1)
-- [![BD Sports-10 Dataset (224×224 Pixels, Resized Version)](https://img.shields.io/badge/BD_Sports_10_Resized-224x224-blue)](https://data.mendeley.com/datasets/rnh3x48nfb/1)  
+- [![BD Sports-10 Dataset (224×224 Pixels, Resized Version)](https://img.shields.io/badge/BD_Sports_10_Resized_Version-224x224-blue)](https://data.mendeley.com/datasets/rnh3x48nfb/1)  
   
 - **Original Version (1920×1080 pixels):** [Science Data Bank](https://doi.org/10.57760/sciencedb.24216)
-- [![BD Sports-10 Dataset (1920×1080 Pixels, Original Version)](https://img.shields.io/badge/Original-1920x1080-green)](https://doi.org/10.57760/sciencedb.24216)
+- [![BD Sports-10 Dataset (1920×1080 Pixels, Original Version)](https://img.shields.io/badge/BD_Sports_10_Original_Version-1920x1080-green)](https://doi.org/10.57760/sciencedb.24216)
 
 The dataset is **licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
