@@ -48,14 +48,37 @@ The full dataset can be downloaded from:
 The dataset is **licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 
-## 📜 Citation
-Please cite the dataset if used:
+## 📜 Citation: BD Sports-10 Dataset (224×224 Pixels, Resized Version)
+### Please cite the dataset if used:
 
 - Tanzim, Wazih Ullah; Minhaz Hossain, Syed Md.; Supta, Niloy Barua; Shifa, Shifatun Nur (2025). **“BD Sports-10 Dataset (224×224 Pixels, Resized Version)”**, Mendeley Data, V1, DOI: [10.17632/rnh3x48nfb.1](https://doi.org/10.17632/rnh3x48nfb.1)  
+
+---
+
+## 📜 Citation: BD Sports-10 Dataset (Original Dataset)
+### Please cite the dataset if used:
 
 - Wazih Ullah Tanzim, Syed Md. Minhaz Hossain, Niloy Barua Supta, et al. (2025). **“BD Sports-10 Dataset”**, V4. Science Data Bank. DOI: [10.57760/sciencedb.24216](https://doi.org/10.57760/sciencedb.24216)  
 
 ---
+
+## 🔖 APA Citation (Original Dataset):
+- Tanzim, W. U., Hossain, S. M. M., Supta, N. B., & Shifatun Nur, S. (2025). BD Sports-10 Dataset (Version V4) [Data set]. https://doi.org/10.57760/sciencedb.24216
+
+---
+
+## 📚 BibTex Citation (Original Dataset):
+
+```bibtex
+@misc{Tanzim_BD_Sports-10_Dataset_2025,
+  author = {Tanzim, Wazih Ullah and Hossain, Syed Md. Minhaz and Supta, Niloy Barua and Shifatun Nur, Shifa},
+  doi = {10.57760/sciencedb.24216},
+  title = {{BD Sports-10 Dataset}},
+  url = {https://doi.org/10.57760/sciencedb.24216},
+  year = {2025}
+}
+```
+
 
 
 ## 📄 License
