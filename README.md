@@ -1,4 +1,4 @@
-# BD Sports-10 Dataset: Supporting Code & Notebooks
+# BD Sports-10 Dataset: Supporting Code, sample data & Notebooks
 
 This repository provides **Jupyter Notebooks** for preprocessing, video resizing, and automated face blurring for the **BD Sports-10 dataset**, a collection of Bangladeshi Sports videos.
 
@@ -22,10 +22,10 @@ This repository provides **Jupyter Notebooks** for preprocessing, video resizing
 Here are short preview clips from the BD Sports-10 dataset:
 
 **Resized (224×224 pixels) sample:**  
-![Resized Sample](data_sample/resized_224x224/sample_video.gif)
+![Resized Sample](data_sample/resized_224x224/Hari_Vanga_025.mp4)
 
 **Original (1920×1080 pixels) sample:**  
-![Original Sample](data_sample/original_1920x1080/sample_video.gif)
+![Original Sample](data_sample/original_1920x1080/Kanamachi_127.mp4)
 
 > ⚠️ These are only sample videos. The full dataset must be downloaded from the official sources below.
 
