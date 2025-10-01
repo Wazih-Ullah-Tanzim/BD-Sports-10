@@ -1,6 +1,6 @@
-# BD Sports-10 Dataset: Supporting Code, sample data & Notebooks
+# BD Sports-10 Dataset: Supporting Code, Notebooks & Sample data.
 
-This repository provides **Jupyter Notebooks** for preprocessing, video resizing, and automated face blurring for the **BD Sports-10 dataset**, a collection of Bangladeshi Sports videos.
+##This repository provides **Jupyter Notebooks** for preprocessing, video resizing, and automated face blurring for the **BD Sports-10 dataset**, a collection of Bangladeshi Sports videos.
 
 ---
 
