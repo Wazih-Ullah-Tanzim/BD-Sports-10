@@ -12,6 +12,7 @@ This repository provides **Jupyter Notebooks** for preprocessing, video resizing
 - `data_sample/` → Small sample videos for demonstration:
   - `resized_224x224/` → 3 sample videos in 224×224 resolution
   - `original_1920x1080/` → 3 sample videos in 1920×1080 resolution
+- `sample_gifs_for_github/` → Contains 2 sample GIFs for preview on GitHub: Hari_Vanga_025_resized_sample.gif and Joldanga_005_original_sample.gif.
 - `README.md` → Documentation and instructions
 - `LICENSE` → MIT License (for code)
 - `CITATION.cff` → Citation metadata
@@ -22,10 +23,10 @@ This repository provides **Jupyter Notebooks** for preprocessing, video resizing
 Here are short preview clips from the BD Sports-10 dataset:
 
 **Resized (224×224 pixels) sample:**  
-![Resized Sample](data_sample/resized_224x224/Hari_Vanga_025.mp4)
+![Resized Sample](sample_gifs_for_github/Hari_Vanga_025_resized_sample.gif)
 
 **Original (1920×1080 pixels) sample:**  
-![Original Sample](data_sample/original_1920x1080/Kanamachi_127.mp4)
+![Original Sample](sample_gifs_for_github/Joldanga_005_original_sample.gif)
 
 > ⚠️ These are only sample videos. The full dataset must be downloaded from the official sources below.
 
