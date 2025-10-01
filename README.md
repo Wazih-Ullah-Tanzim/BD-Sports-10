@@ -34,8 +34,11 @@ Here are short preview clips from the BD Sports-10 dataset:
 ## 📊 Dataset Access
 The full dataset can be downloaded from:
 
-- **Resized Version (224×224 pixels):** [Mendeley Data](https://data.mendeley.com/datasets/rnh3x48nfb/1)  
-- **Original Version (1920×1080 pixels):** [Science Data Bank](https://doi.org/10.57760/sciencedb.24216)  
+- **Resized Version (224×224 pixels):** [Mendeley Data](https://data.mendeley.com/datasets/rnh3x48nfb/1)
+- [![Resized 224x224](https://img.shields.io/badge/Resized-224x224-blue)](https://data.mendeley.com/datasets/rnh3x48nfb/1)
+  
+- **Original Version (1920×1080 pixels):** [Science Data Bank](https://doi.org/10.57760/sciencedb.24216)
+- [![Original 1920x1080](https://img.shields.io/badge/Original-1920x1080-green)](https://doi.org/10.57760/sciencedb.24216)
 
 The dataset is **licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
