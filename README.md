@@ -5,15 +5,14 @@
 ---
 
 ## 📂 Repository Contents
-
-- `notebooks/` → Jupyter notebooks with instructions:
-  - `automated-face-blurring-using.ipynb`
-  - `dataset-preparation-and-preprocessing-for-bd-sport.ipynb`
-  - `video-resizing-script-for-bd-sports-10-datasets.ipynb`
-    
 - `data_sample/` → Small sample videos for demonstration:
   - `resized_224x224/` → 3 sample videos in 224×224 resolution
   - `original_1920x1080/` → 3 sample videos in 1920×1080 resolution
+    
+- `notebooks/` → Jupyter notebooks with instructions:
+  - `automated-face-blurring-using.ipynb`
+  - `dataset-preparation-and-preprocessing-for-bd-sport.ipynb`
+  - `video-resizing-script-for-bd-sports-10-datasets.ipynb`    
     
 - `sample_gifs_for_github/` → Contains 2 sample GIFs for preview on GitHub: Hari_Vanga_025_resized_sample.gif and Joldanga_005_original_sample.gif.
 - `README.md` → Documentation and instructions
@@ -21,6 +20,37 @@
 - `CITATION.cff` → Citation metadata
 
 ---
+
+## 📂 Repository Structure
+
+```plaintext
+📂 BD-Sports-10/
+├── data_sample/
+│   ├── resized_224x224/
+│   │   ├── Hari_Vanga_025.mp4
+│   │   ├── Joldanga_010.mp4
+│   │   └── Lathim_105.mp4
+│   │
+│   └── original_1920x1080/
+│       ├── Joldanga_005.mp4
+│       ├── Kanamachi_127.mp4
+│       └── Kolagach_299.mp4
+│
+├── notebooks/
+│   ├── automated-face-blurring-using.ipynb
+│   ├── dataset-preparation-and-preprocessing-for-bd-sport.ipynb
+│   └── video-resizing-script-for-bd-sports-10-datasets.ipynb
+│
+├── sample_gifs_for_github/
+│   ├── Hari_Vanga_025_resized_sample.gif
+│   └── Joldanga_005_original_sample.gif
+│
+├── CITATION.cff
+├── LICENSE
+└── README.md
+
+```
+
 
 ## 🎥 Sample Video Preview
 Here are short preview clips from the BD Sports-10 dataset:
