@@ -10,9 +10,10 @@
   - `original_1920x1080/` → 3 sample videos in 1920×1080 resolution
     
 - `notebooks/` → Jupyter notebooks with instructions:
-  - `automated-face-blurring-using.ipynb`
-  - `dataset-preparation-and-preprocessing-for-bd-sport.ipynb`
-  - `video-resizing-script-for-bd-sports-10-datasets.ipynb`    
+  - `automated-face-blurring-using.ipynb`    → Contains dataset face blurring code with description.
+  - `dataset-preparation-and-preprocessing-for-bd-sport.ipynb`   → Contain Dataset preparation and preprocessing, and ready to implement in DL model code with description 
+  - `video-resizing-script-for-bd-sports-10-datasets.ipynb`    → Contain the Video resizing code with a description.
+  - `bd-sports-10-dataset-download-from-pypi.ipynb`    → Contain the BD Sports-10 dataset using the PyPi module with description.
     
 - `sample_gifs_for_github/` → Contains 2 sample GIFs for preview on GitHub: Hari_Vanga_025_resized_sample.gif and Joldanga_005_original_sample.gif.
 - `README.md` → Documentation and instructions
@@ -39,7 +40,8 @@
 ├── notebooks/
 │   ├── automated-face-blurring-using.ipynb
 │   ├── dataset-preparation-and-preprocessing-for-bd-sport.ipynb
-│   └── video-resizing-script-for-bd-sports-10-datasets.ipynb
+│   ├── video-resizing-script-for-bd-sports-10-datasets.ipynb
+|   └── video-resizing-script-for-bd-sports-10-datasets.ipynb
 │
 ├── sample_gifs_for_github/
 │   ├── Hari_Vanga_025_resized_sample.gif
@@ -64,6 +66,23 @@ Here are short preview clips from the BD Sports-10 dataset:
 > ⚠️ These are only sample videos. The full dataset must be downloaded from the official sources below.
 
 ---
+## 📊 Dataset Access via PyPI
+
+You can easily download and use the **BD Sports-10 Dataset** directly in your Python environment or notebooks (Kaggle, Colab, etc.) using `pip`. Both the **resized** and **original** versions are available as PyPI packages.
+
+### 🚀 Install the Resized Version (224×224 pixels)
+Optimized for **machine learning** and **deep learning** tasks:
+
+```bash
+!pip install bd-sports-10-resized==0.4.0
+```
+---
+### 📦 Install the Original Version (Full HD 1920×1080 pixels)
+
+```bash
+!pip install bd-sports-10-original==0.2.0
+```
+---
 
 ## 📊 Dataset Access
 The full dataset can be downloaded from:
@@ -84,6 +103,18 @@ The dataset is **licensed under Creative Commons Attribution 4.0 International (
 - Tanzim, Wazih Ullah; Minhaz Hossain, Syed Md.; Supta, Niloy Barua; Shifa, Shifatun Nur (2025). **“BD Sports-10 Dataset (224×224 Pixels, Resized Version)”**, Mendeley Data, V1, DOI: [10.17632/rnh3x48nfb.1](https://doi.org/10.17632/rnh3x48nfb.1)  
 
 ---
+## 📚 BibTex Citation (Resized Dataset):
+```bibtex
+@misc{tanzim2025_bdsports10_resized,
+  author       = {Tanzim, Wazih Ullah and Minhaz Hossain, Syed Md. and Supta, Niloy Barua and Shifa, Shifatun Nur},
+  title        = {{BD Sports-10 Dataset (224×224 Pixels, Resized Version)}},
+  year         = {2025},
+  publisher    = {Mendeley Data},
+  version      = {V1},
+  doi          = {10.17632/rnh3x48nfb.1},
+  url          = {https://data.mendeley.com/datasets/rnh3x48nfb/1}
+}
+```
 
 ## 📜 Citation: BD Sports-10 Dataset (Original Dataset)
 ### Please cite the dataset if used:
@@ -93,19 +124,22 @@ The dataset is **licensed under Creative Commons Attribution 4.0 International (
 ---
 
 ## 🔖 APA Citation (Original Dataset):
-- Tanzim, W. U., Hossain, S. M. M., Supta, N. B., & Shifatun Nur, S. (2025). BD Sports-10 Dataset (Version V4) [Data set]. https://doi.org/10.57760/sciencedb.24216
+- Tanzim, W. U., Hossain, S. M. M., Supta, N. B., & Shifatun Nur, S. (2025, October). BD Sports-10 Dataset (Version V4) [Data set]. Science Data Bank. https://doi.org/10.57760/sciencedb.24216
 
 ---
 
 ## 📚 BibTex Citation (Original Dataset):
 
 ```bibtex
-@misc{Tanzim_BD_Sports-10_Dataset_2025,
-  author = {Tanzim, Wazih Ullah and Hossain, Syed Md. Minhaz and Supta, Niloy Barua and Shifatun Nur, Shifa},
-  doi = {10.57760/sciencedb.24216},
-  title = {{BD Sports-10 Dataset}},
-  url = {https://doi.org/10.57760/sciencedb.24216},
-  year = {2025}
+@misc{tanzim2025_bdsports10_original,
+  author       = {Wazih Ullah Tanzim and Syed Md. Minhaz Hossain and Niloy Barua Supta and Shifatun Nur Shifa},
+  title        = {{BD Sports-10 Dataset}},
+  year         = {2025},
+  month        = {October},
+  publisher    = {Science Data Bank},
+  version      = {V4},
+  doi          = {10.57760/sciencedb.24216},
+  url          = {https://doi.org/10.57760/sciencedb.24216}
 }
 ```
 
