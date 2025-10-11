@@ -1,9 +1,12 @@
 # BD Sports-10 Dataset: Supporting Figures, Code, Notebooks, Python Package (PyPI) & Sample Data
 
-## This repository provides a comprehensive collection of *Jupyter Notebooks, sample videos, and illustrative figures* used in the preparation of the **BD Sports-10 dataset** — a curated collection of Bangladeshi sports videos.
 
-## It includes *scripts and visual documentation for dataset preprocessing, video resizing, trimming, and automated face-blurring,* ensuring transparency and reproducibility of the dataset creation process.
+### This repository provides a comprehensive collection of *Jupyter Notebooks, sample videos, and illustrative figures* used in the preparation of the **BD Sports-10 dataset** — a curated collection of Bangladeshi sports videos.
 
+
+### It includes *scripts and visual documentation for dataset preprocessing, video resizing, trimming, and automated face-blurring,* ensuring transparency and reproducibility of the dataset creation process.
+
+---
 
 ## 📂 Repository Contents
 - `data_preprocessing_trimming_and_export_figures/`  → This folder contains figures illustrating the data preprocessing, standardization, trimming, and export processes. The images demonstrate the workflow followed during dataset preparation using Adobe Premiere Pro and Media Encoder. All figures are arranged sequentially to facilitate recreation of the dataset by other researchers.  
