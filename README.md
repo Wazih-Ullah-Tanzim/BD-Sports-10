@@ -5,6 +5,15 @@
 ---
 
 ## 📂 Repository Contents
+- `data_preprocessing_trimming_and_export_figures`  → Contains the data preprocessing, standardization, trimming, and export figures. These images illustrate the workflow followed during dataset preparation using Adobe Premiere Pro and Media Encoder.  
+   - `Figure_01.jpg`
+   - `Figure_02.jpg`
+   - `Figure_03.jpg`
+   - .
+   - .
+   - .
+   - `Figure_17.jpg`
+
 - `data_sample/` → Small sample videos for demonstration:
   - `resized_224x224/` → 3 sample videos in 224×224 resolution
   - `original_1920x1080/` → 3 sample videos in 1920×1080 resolution
@@ -26,6 +35,17 @@
 
 ```plaintext
 📂 BD-Sports-10/
+│
+├── data_preprocessing_trimming_and_export_figures/
+│   ├── Figure_01.jpg
+│   ├── Figure_02.jpg
+│   ├── Figure_03.jpg
+│   ├── . 
+│   ├── .
+│   ├── .
+│   └── Figure_17.jpg
+│
+│
 ├── data_sample/
 │   ├── resized_224x224/
 │   │   ├── Hari_Vanga_025.mp4
