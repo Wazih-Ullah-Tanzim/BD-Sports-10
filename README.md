@@ -3,8 +3,8 @@
 
 ### This repository provides a comprehensive collection of *Jupyter Notebooks, sample videos, and illustrative figures* used in the preparation of the **BD Sports-10 dataset** — a curated collection of Bangladeshi sports videos.
 
+### Moreover, it includes *scripts and visual documentation for the dataset preprocessing workflow using Adobe Premiere Pro and Media Encoder, video resizing, trimming, automated face-blurring using MTCNN, dataset preparation for deep learning model readiness, and links to the original and resized dataset on ScienceDB and Mendeley*. The dataset can also be conveniently downloaded and integrated into Python environments via the dedicated *PyPI package*, ensuring *transparency, reproducibility, and ease of use* for researchers.
 
-### It includes *scripts and visual documentation for dataset preprocessing, video resizing, trimming, and automated face-blurring,* ensuring transparency and reproducibility of the dataset creation process.
 
 ---
 
