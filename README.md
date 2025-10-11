@@ -5,7 +5,7 @@
 ---
 
 ## 📂 Repository Contents
-- `data_preprocessing_trimming_and_export_figures`  → This folder contains figures illustrating the data preprocessing, standardization, trimming, and export processes. The images demonstrate the workflow followed during dataset preparation using Adobe Premiere Pro and Media Encoder. All figures are arranged sequentially to facilitate recreation of the dataset by other researchers.  
+- `data_preprocessing_trimming_and_export_figures/`  → This folder contains figures illustrating the data preprocessing, standardization, trimming, and export processes. The images demonstrate the workflow followed during dataset preparation using Adobe Premiere Pro and Media Encoder. All figures are arranged sequentially to facilitate recreation of the dataset by other researchers.  
    - `Figure_01.jpg`
    - `Figure_02.jpg`
    - `Figure_03.jpg`
