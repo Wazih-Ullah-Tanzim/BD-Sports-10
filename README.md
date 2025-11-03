@@ -132,27 +132,17 @@ The full dataset can be downloaded from:
 ### BibTeX Citation
 
 ```bibtex
-@software{tanzim2025_bdsports10_supporting,
-  author       = {Tanzim, Wazih Ullah and
-                  Supta, Niloy Barua and
-                  Shifa, Shifatun Nur and
-                  Mamun, Khondaker A.},
-  title        = {BD Sports-10 Dataset: Supporting Figures, Code,
-                   Notebooks, Python Package (PyPI) \& Sample Data
-                  },
+@misc{tanzim2025_bdsports10_supporting,
+  author       = {Wazih Ullah Tanzim and Niloy Barua Supta and Shifatun Nur Shifa and Khondaker A. Mamun},
+  title        = {{BD Sports-10 Dataset: Supporting Figures, Code,
+                   Notebooks, Python Package (PyPI) \& Sample Data}},
   month        = nov,
   year         = 2025,
   publisher    = {Zenodo},
   version      = {v1.0.0},
   doi          = {10.5281/zenodo.17516627},
   url          = {https://doi.org/10.5281/zenodo.17516627},
-  swhid        = {swh:1:dir:e96fb92dd446baf8377202e5a91385c84be4fcd1
-                   ;origin=https://doi.org/10.5281/zenodo.17516626;vi
-                   sit=swh:1:snp:893e50c1125c9b07d4abcbecc524399c0bc3
-                   7218;anchor=swh:1:rel:d0d553ff3c4383547896ed278c54
-                   a763cc627b13;path=Wazih-Ullah-Tanzim-BD-
-                   Sports-10-edc8e19
-                  },
+  note         = {Zenodo Repository}
 }
 ```
 
