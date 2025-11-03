@@ -120,6 +120,36 @@ The full dataset can be downloaded from:
 
 The dataset is **licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
+## Citation (GitHub)
+
+- If you use this **repository, any of the code, preprocessing notebooks, figures, or sample data,** please cite it using the following DOI:
+
+**To cite this specific release (v1.0.0)**, use DOI: [![DOI v1.0.0](https://zenodo.org/badge/DOI/10.5281/zenodo.17517571.svg)](https://doi.org/10.5281/zenodo.17517571)
+
+**For the latest version, see** : [![DOI latest](https://zenodo.org/badge/DOI/10.5281/zenodo.17516626.svg)](https://doi.org/10.5281/zenodo.17516626)
+
+### APA Citation
+
+- Tanzim, W. U., Supta, N. B., Shifa, S. N., & Mamun, K. A. (2025). *BD Sports-10 Dataset: Supporting Figures, Code, Notebooks, Python Package (PyPI) & Sample Data* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17517571
+
+
+### BibTeX Citation
+
+```bibtex
+@misc{tanzim2025_bdsports10_supporting,
+  author       = {Wazih Ullah Tanzim and Niloy Barua Supta and Shifatun Nur Shifa and Khondaker A. Mamun},
+  title        = {{BD Sports-10 Dataset: Supporting Figures, Code,
+                   Notebooks, Python Package (PyPI) \& Sample Data }},
+  month        = nov,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.17517571},
+  url          = { https://doi.org/10.5281/zenodo.17517571},
+  note         = {Zenodo Repository}
+}
+```
+
 
 ## 📜 Citation: BD Sports-10 Dataset (224×224 Pixels, Resized Version)
 ### Please cite the dataset if used:
