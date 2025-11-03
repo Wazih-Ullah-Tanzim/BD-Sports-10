@@ -23,10 +23,10 @@
   - `original_1920x1080/` → 3 sample videos in 1920×1080 resolution
     
 - `notebooks/` → Jupyter notebooks with instructions:
-  - `automated-face-blurring-using.ipynb`    → Contains dataset face blurring code with description.
-  - `dataset-preparation-and-preprocessing-for-bd-sport.ipynb`   → Contain Dataset preparation and preprocessing, and ready to implement in DL model code with description 
-  - `video-resizing-script-for-bd-sports-10-datasets.ipynb`    → Contain the Video resizing code with a description.
-  - `bd-sports-10-dataset-download-from-pypi.ipynb`    → Contain the BD Sports-10 dataset using the PyPi module with description.
+  - `automated-face-blurring-using-MTCNN.ipynb`    → Contains dataset face blurring code with description.
+  - `bd-sports-10-dataset-download-from-pypi.ipynb`   → Contain the BD Sports-10 dataset using the PyPi module with description.
+  - `dataset-preparation-and-preprocessing-for-bd-sport.ipynb`    → Contain Dataset preparation and preprocessing, and ready to implement in DL model code with description.
+  - `video-resizing-script-for-bd-sports-10-datasets.ipynb`    → Contain the Video resizing code with a description. 
     
 - `sample_gifs_for_github/` → Contains 2 sample GIFs for preview on GitHub: Hari_Vanga_025_resized_sample.gif and Joldanga_005_original_sample.gif.
 - `README.md` → Documentation and instructions
