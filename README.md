@@ -62,9 +62,9 @@
 │       └── Kolagach_299.mp4
 │
 ├── notebooks/
-│   ├── automated-face-blurring-using.ipynb
+│   ├── automated-face-blurring-using-MTCNN.ipynb
+│   ├── bd-sports-10-dataset-download-from-pypi.ipynb
 │   ├── dataset-preparation-and-preprocessing-for-bd-sport.ipynb
-│   ├── video-resizing-script-for-bd-sports-10-datasets.ipynb
 |   └── video-resizing-script-for-bd-sports-10-datasets.ipynb
 │
 ├── sample_gifs_for_github/
